@@ -19,7 +19,7 @@ function App() {
                     {
                         "essential": true,
                         "functional": true,
-                        "analytics": true,
+                        "analytical": true,
                         "targeting": true,
                     },
                 ),
